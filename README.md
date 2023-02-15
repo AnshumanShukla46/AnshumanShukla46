@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **Android and ReactJS Projects**
 
-- 💬 Ask me about **JAVA, Frontend (ReactJS) and TailwindCSS**
+- 💬 Ask me about **JAVA, ReactJS**
 
 - 📫 How to reach me **Anshumanshukla46@gmail.com**
 
