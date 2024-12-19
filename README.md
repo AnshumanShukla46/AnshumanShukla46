@@ -1,6 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://www.linkedin.com/in/anshuman-shukla-0a0a591ba/)
-
-
 <h1 align="center">Hello, I'm Anshuman Shukla</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
@@ -10,22 +7,12 @@
 
 - 👯 I’m looking to collaborate on [Full Stack MERN Projects](https://github.com/Anshumanshukla46/realtime-chat-application)
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://anshumanwebfolio.vercel.app/)
-
-- 📝 I regularly write something on [Twitter](https://twitter.com/anshuman_46)
-
 - 💬 Ask me about **JAVA (DSA), React.js**
-
-- 📫 How to reach me **webanshuman46@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15VGwXsgZVoFi8uI_lSPMOsHoYh3y2g48/view?usp=sharing)
 
 - ⚡ Fact **Want to deep dive in the web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anshuman_46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshuman_46" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshuman-shukla-0a0a591ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman-shukla-0a0a591ba" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anshumanshukla46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshumanshukla46" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anshumanshukla46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshumanshukla46" height="30" width="40" /></a>
 </p>
