@@ -1,15 +1,13 @@
 <h1 align="center">Hello, I'm Anshuman Shukla</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+- 🌱 I’m currently **doing backend in spring boot and upskilling myself in DSA**
 
-- 🌱 I’m currently learning **Backend in Node.js and upskilling myself in DSA**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👯 I’m looking to collaborate on [Full Stack MERN Projects](https://github.com/Anshumanshukla46/realtime-chat-application)
+- 💬 Ask me about **JAVA, React.js**
 
-- 💬 Ask me about **JAVA (DSA), React.js**
-
-- ⚡ Fact **Want to deep dive in the web**
+- ⚡ Fact **Want to deep dive in the system design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
